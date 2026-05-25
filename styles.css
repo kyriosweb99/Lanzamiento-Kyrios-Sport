@@ -1,3 +1,9 @@
+.logo {
+  width: 260px;
+  height: auto;
+  display: block;
+  margin: 40px auto 35px auto;
+}
 @font-face {
   font-family: 'MicrogrammaBold';
   src: url('fonts/MicrogrammaBoldExtended.otf') format('opentype');
